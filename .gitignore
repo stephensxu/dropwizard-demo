@@ -1,0 +1,40 @@
+# Please see https://github.com/github/gitignore for some nice presets
+
+# Output directories
+build/
+out/
+target/
+bin/
+
+# Mac OS X files
+.DS_Store
+
+# IntelliJ IDEA files
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Eclipse files
+.settings
+.classpath
+.project
+
+# Log directory
+logs/
+
+# vim files
+.*.sw[a-z]
+*.un~
+
+# Java class files
+*.class
+
+# Maven dependencies
+dependency-reduced-pom.xml
+
+# Gradle
+.gradle
+
+# MShell Build
+dependencies.properties
